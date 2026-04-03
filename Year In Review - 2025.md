@@ -1,3 +1,12 @@
+---
+title: "Year In Review 2025"
+date: 2025-12-31
+tags: ["fresh-cake", "reflection", "animation"]
+slug: "year-in-review-2025"
+description: "A look back at 2.75B views, new characters, and what's next."
+draft: false
+---
+
 ### Tiny Experiments → Creative Technologist
 
 At the start of 2025, I set some strict goals.
