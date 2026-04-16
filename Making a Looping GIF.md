@@ -13,7 +13,7 @@ New video up. I made a looping GIF using three apps I actually use every day: **
 
 For those who don't know, I spent years as "the Giphy guy" — 2.8 billion views and counting. So this one felt like going home.
 
-[![Watch the video on YouTube](/img/HowIMakeGif_Thumb.png)](https://youtu.be/F8qF6a5HyM4)
+[![Watch the video on YouTube](img/HowIMakeGif_Thumb.png)](https://youtu.be/F8qF6a5HyM4)
 
 ---
 
