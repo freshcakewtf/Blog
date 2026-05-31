@@ -1,9 +1,13 @@
 ---
-title: "Making a Looping GIF with Fresco, Firefly, and Express"
+title: Making a Looping GIF with Fresco, Firefly, and Express
 date: 2026-04-16
-tags: ["animation", "gif", "tutorial", "tool stack"]
-slug: "making-a-looping-gif-with-fresco-firefly-and-express"
-description: "A quick walkthrough of my current GIF pipeline — from rough sketch to meme-ready loop."
+tags:
+  - animation
+  - gif
+  - tutorial
+  - tool stack
+slug: making-a-looping-gif-with-fresco-firefly-and-express
+description: A quick walkthrough of my current GIF pipeline — from rough sketch to meme-ready loop.
 draft: false
 ---
 
