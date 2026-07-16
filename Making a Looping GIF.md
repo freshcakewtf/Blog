@@ -10,14 +10,13 @@ slug: making-a-looping-gif-with-fresco-firefly-and-express
 description: A quick walkthrough of my current GIF pipeline — from rough sketch to meme-ready loop.
 draft: false
 ---
-
 ### Back to my roots
 
 New video up. I made a looping GIF using three apps I actually use every day: **Adobe Fresco**, **Firefly Boards**, and **Adobe Express**.
 
 For those who don't know, I spent years as "the Giphy guy" — 2.8 billion views and counting. So this one felt like going home.
 
-[![Watch the video on YouTube](img/HowIMakeGif_Thumb.png)](https://youtu.be/F8qF6a5HyM4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F8qF6a5HyM4?si=X0qCvzfQZEYU3ar3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

@@ -1,12 +1,16 @@
 ---
-title: "GenAI Is a Render Engine (Not a Replacement)"
+title: GenAI Is a Render Engine (Not a Replacement)
 date: 2026-05-31
-tags: ["fresh-cake", "generative-ai", "workflow", "animation", "3d"]
-slug: "genai-is-a-render-engine"
-description: "After years with these tools, I've landed somewhere familiar — it's not magic, it's a renderer."
+tags:
+  - fresh-cake
+  - generative-ai
+  - workflow
+  - animation
+  - 3d
+slug: genai-is-a-render-engine
+description: After years with these tools, I've landed somewhere familiar — it's not magic, it's a renderer.
 draft: false
 ---
-
 ### I think I've been thinking about it wrong
 
 I've been using generative AI tools since, you know, they landed at the intersection of art and tech. 😆 At first it felt like magic. Then it started feeling like a tool. And now I've landed somewhere more familiar. Kind of a full circle moment.
