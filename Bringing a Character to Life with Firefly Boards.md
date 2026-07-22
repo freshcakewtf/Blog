@@ -6,7 +6,7 @@ tags:
   - tutorial
   - "#toolstack"
   - firefly
-slug: making-a-looping-gif-with-fresco-firefly-and-express
+slug: bringing-a-character-to-life-with-firefly-boards
 description: No budget, no studio, no problem — how I take a character from rough sketch to finished animation with Firefly Boards.
 draft: false
 ---
