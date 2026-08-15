@@ -5,7 +5,7 @@ tags:
   - animation
   - gif
   - tutorial
-  - "#toolstack"
+  - toolstack
 slug: making-a-looping-gif-with-fresco-firefly-and-express
 description: A quick walkthrough of my current GIF pipeline — from rough sketch to meme-ready loop.
 draft: false

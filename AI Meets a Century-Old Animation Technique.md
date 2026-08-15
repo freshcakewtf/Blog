@@ -18,7 +18,7 @@ While many focus on generating a final piece (like text-to-image or video), the 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TyJxoHP9JZ0?si=0QAWaH6NxQdpXItK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### ✍️ The Key Takeaways: AI $\rightarrow$ Reference $\rightarrow$ Art
+### ✍️ The Key Takeaways: AI → Reference → Art
 
 The workflow shown in the video isn't about clicking a single button. It requires bridging several distinct tools into one continuous pipeline. The core steps are:
 

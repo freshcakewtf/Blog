@@ -4,9 +4,9 @@ date: 2026-07-19
 tags:
   - "#ugc"
   - "#concept"
-  - "#fireflyboards"
   - "#github"
-  - "#creativecommons"
+  - firefly-boards
+  - creative-commons
 slug: Mystery-Wonderful
 description: A character I gave away on purpose — and why I think that's the future for small creators.
 draft: false
