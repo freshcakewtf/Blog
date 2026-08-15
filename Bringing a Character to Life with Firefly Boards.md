@@ -4,8 +4,8 @@ date: 2026-02-02
 tags:
   - animation
   - tutorial
-  - "#toolstack"
   - firefly
+  - toolstack
 slug: bringing-a-character-to-life-with-firefly-boards
 description: No budget, no studio, no problem — how I take a character from rough sketch to finished animation with Firefly Boards.
 draft: false
