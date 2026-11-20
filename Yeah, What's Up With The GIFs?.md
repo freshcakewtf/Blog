@@ -8,7 +8,7 @@ slug: why-i-like-gifs
 description: I get asked a lot about why I put so much effort into creating GIFs over investing that time into something like an Instagram account or TikTok. I don't find them very social.
 draft: false
 ---
-### Where it started
+## Where it started
 
 I remember standing on a rooftop bar in Stamford, CT, bragging to a buddy I’d just met about my "influencer" career in the making. We were talking about startup life when he mentioned how cool my work could be on GIPHY—the platform he worked on. 
 
@@ -20,13 +20,13 @@ The internet didn't actually care, of course. The hype died down by the next mor
 
 <iframe src="https://giphy.com/embed/3h4EV2XB7OTlAJ4h1u" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/lol-fun-freshcake-3h4EV2XB7OTlAJ4h1u">This is the LOL gif that started it for me via GIPHY</a></p>
 
-### What Happened Next
+## What Happened Next
 
 As the years passed, my grand plan to become a social media art star began to deteriorate—and probably for the better. I spent a long time chasing algorithms on every popular platform, trying to get that coveted "K" in my follower count, all while wondering if any of it actually mattered.
 
 I eventually realized there was a new gatekeeper: the platforms themselves.
 
-### Social Media isn't all that Social
+## Social Media isn't all that Social
 
 Social media has undergone a fundamental shift in recent years. It has moved away from *connection* and toward *consumption*. Instead of being tools to help us talk to each other, they've become engines designed to keep us locked to our screens, feeding us a constant stream of passive entertainment. We are spectators, scrolling past content rather than actually engaging with the people behind it.
 
@@ -38,7 +38,7 @@ The data actually backs this up. A [Pew Research study](https://www.pewresearch.
 
 People are just as social as they've ever been; the conversation has just moved into the DMs.
 
-### It's not a Hobby Anymore
+## It's not a Hobby Anymore
 
 This is why I lean into GIPHY. It’s a platform that allows me to publish once and somehow be everywhere—from Instagram to Slack. Other providers like Tenor have done this for years, and now we see new players like KLIPY entering the space.
 
