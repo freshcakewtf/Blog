@@ -9,17 +9,7 @@ description: There's a lot that happens in the creative process. The exploratory
 draft: false
 ---
 
-<iframe
-  src="https://express.adobe.com/embedLink/urn:aaid:sc:US:004c3871-a9ce-576c-98ee-35ea4289a7cb?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other"
-  width="1280"
-  height="720"
-  loading="lazy"
-  allowfullscreen="allowfullscreen"
-  allow="clipboard-write; fullscreen"
-  referrerpolicy="strict-origin-when-cross-origin"
-  frameborder="0"
-  style="width:100%; max-width:1280px; height:auto; aspect-ratio:1280/720; border:0; display:block;"
-></iframe>
+[image](images/ScreamTime_01.png)
 
 There's a lot that happens in the creative process. The exploratory phase, production, self-doubt, making logos bigger, more self-doubt, and final delivery.  
   
